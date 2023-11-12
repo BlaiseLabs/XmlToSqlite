@@ -1,0 +1,2 @@
+from .flat_test import TestFlatStrategyDatabase
+from .hierarchical_test import TestHierarchicalStrategyDatabase
